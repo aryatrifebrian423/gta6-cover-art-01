@@ -1,0 +1,26 @@
+[
+  {
+    "name": "1-cover.jpg",
+    "query": "?shot=cover&size=landscape&photo=pier&layout=four&grade=vice&pan=0.95&title=NEON%20SHORE&subtitle=Some%20nights%20stay%20with%20you&badge=AFTER%20DARK",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "name": "2-editor.jpg",
+    "query": "?shot=editor&photo=pier&layout=four&grade=neon&title=BLUE%20HOUR&subtitle=The%20city%20never%20sleeps&badge=COAST%20TO%20COAST",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "name": "3-cover-portrait.jpg",
+    "query": "?shot=cover&size=portrait&photo=boulevard&layout=story&grade=gold&pan=0.85&title=LAST%20LIGHT&subtitle=Meet%20me%20by%20the%20water&badge=ONE%20MORE%20NIGHT",
+    "w": 1024,
+    "h": 1280
+  },
+  {
+    "name": "4-cover-square.jpg",
+    "query": "?shot=cover&size=square&photo=pier&layout=nine&grade=neon&pan=-0.22&title=PIER%20PRESSURE&subtitle=No%20sleep%20on%20the%20shore&badge=AFTER%20HOURS",
+    "w": 1080,
+    "h": 1080
+  }
+]
