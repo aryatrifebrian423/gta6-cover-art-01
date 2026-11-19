@@ -1,0 +1,2 @@
+/** Applies optional local screenshot presets through the same visible editor controls. */
+export function readShot(){const q=new URLSearchParams(location.search);return q.get('shot')?{mode:q.get('shot'),photo:q.get('photo')??'pier',size:q.get('size')??'landscape',layout:q.get('layout')??'hero',grade:q.get('grade')??'vice',title:q.get('title')??'NEON SHORE',subtitle:q.get('subtitle')??'Some nights stay with you',badge:q.get('badge')??'AFTER DARK',pan:Number(q.get('pan')??0)}:null}
